@@ -1,0 +1,50 @@
+/*body{
+    background-color:#eeeeee;
+}
+
+
+h1
+ {
+    text-align: center;
+}
+p{
+    font-size: 32px;
+    color:#ff0000;
+}
+#nd-par{
+    color:#0000ff;
+}
+nav a{
+    color:red;
+}
+.submit-button{
+    background-color: aqua;
+    border:5px solid rebeccapurple;
+}
+*/
+
+nav li{
+    padding: 10px;
+    padding-bottom: 20px;
+    display: inline-block;
+    border: 1px solid navy;
+
+
+}
+
+button{
+    font-size: 32px;
+    margin: 20px;
+    padding: 12px;
+    background-color: aqua;
+    border: 2px dashed red;
+    width:200px;
+    
+}
+
+.logo{
+    float: right;
+}
+h1{
+    float: left;
+}
